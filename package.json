@@ -1,0 +1,38 @@
+{
+  "name": "lice",
+  "version": "0.0.1",
+  "description": "An open source license generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:superkhau/lice.git"
+  },
+  "keywords": [
+    "license",
+    "open",
+    "source",
+    "generator"
+  ],
+  "author": "Simon Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superkhau/lice/issues"
+  },
+  "homepage": "https://github.com/superkhau/lice",
+  "dependencies": {
+    "async": "^0.9.0",
+    "chai": "^1.10.0",
+    "inquirer": "^0.8.0",
+    "minimist": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "nodemon": "^1.3.2"
+  },
+  "bin": {
+    "lice": "index.js"
+  }
+}

@@ -56,3 +56,7 @@ Or if you prefer CLI mode:
 ```
 lice -g -l mit -u 'John doe' # see above for flag definitions or run `lice -h`
 ```
+
+###Note
+You can also provide a path to where you want the license generated via the `-p`
+flag.

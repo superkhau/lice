@@ -15,7 +15,7 @@ npm install -g lice
 
 ```
 lice
-# follow the prompts, your license will be generated in the current working dir unless a path specified via the `-p` flag
+# follow the prompts, your license will be generated in the current working dir unless a path is specified via the `-p` flag
 ```
 
 ##CLI mode

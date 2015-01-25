@@ -1,6 +1,6 @@
 {
   "name": "lice",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An open source license generator.",
   "main": "index.js",
   "scripts": {

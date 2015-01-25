@@ -2,6 +2,7 @@
 
 An open source license generator.
 
+[![NPM](https://nodei.co/npm/lice.png)](https://nodei.co/npm/lice/)
 ![](/data/lice.png)
 
 ##Installation

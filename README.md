@@ -44,8 +44,8 @@ Available licenses:
 
 ##Example
 
-Let's say you want an MIT license for your project. Switch to the directory you
-want the license generated, run `lice` and follow the prompts:
+Let's say you want an MIT license for your project. Switch to the directory
+where you want the license generated, run `lice` and follow the prompts:
 
 ```
 cd /your/project/dir

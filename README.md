@@ -16,20 +16,22 @@ lice
 # follow the prompts
 ```
 
-##Flags
-
-- -v, --view $license_shortname <string>
-- -y, --year The year to use. Example 2014
-- -n, --fullname John Doe
-- -p, --project The name of the project
-- -e, --extension The file extension to use for the license (defaults to no // extension
-- -p, --path where to generate the license (maybe no arg)
-
+##CLI mode
 ```
-//check if all require cli arguments provided
-//  yes
-//    check if each provided value is valid
-//      if invalid, spit error
-//      if valid generate the file accordingly
-//if command line arguments provided
+Usage:
+  lice [options]
+
+Options:
+  -h, --help     Display the help menu
+  -g, --generate Generate a license [default `true`]
+  -l, --license  The type of license to generate, [default `mit`]
+  -n, --name     The name of the generated license, [default `LICENSE`]
+  -p, --path     License generation file path, [default `current working dir`]
+  -s, --show     Show the contents of a license
+  -v, --version  Display the version
+  -y, --year     Year placeholder [default `current year`]
+
+Available licenses:
+  isc ISC License (ISC)
+  mit The MIT License (MIT) [default]
 ```

@@ -56,7 +56,7 @@ lice
 Or if you prefer CLI mode:
 
 ```
-lice -g -l mit -u 'John doe' # see above for flag definitions or run `lice -h`
+lice -g -l mit -u 'John Doe' # see above for flag definitions or run `lice -h`
 ```
 
 ###Note

@@ -1,8 +1,9 @@
 #lice
 
-An open source license generator.
+An open source license generator (and viewer).
 
 [![NPM](https://nodei.co/npm/lice.png)](https://nodei.co/npm/lice/)
+
 ![](/data/lice.png)
 
 ##Installation
@@ -18,6 +19,7 @@ lice
 ```
 
 ##CLI mode
+
 ```
 Usage:
   lice [options]
@@ -29,10 +31,28 @@ Options:
   -n, --name     The name of the generated license, [default `LICENSE`]
   -p, --path     License generation file path, [default `current working dir`]
   -s, --show     Show the contents of a license
+  -u, --user     The name to use in the generated license
   -v, --version  Display the version
   -y, --year     Year placeholder [default `current year`]
 
 Available licenses:
   isc ISC License (ISC)
   mit The MIT License (MIT) [default]
+```
+
+##Example
+
+Let's say you want an MIT license for your project. Switch to the directory you
+want the license generated, run `lice` and follow the prompts:
+
+```
+cd /your/project/dir
+lice
+#follow the prompts, your license will be generated in /your/project/dir
+```
+
+Or if you prefer CLI mode:
+
+```
+lice -g -l mit -u 'John doe' # see above for flag definitions or run `lice -h`
 ```

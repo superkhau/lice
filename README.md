@@ -1,6 +1,6 @@
 #lice
 
-An open source license generator (and viewer).
+An open source license generator and license viewer.
 
 [![NPM](https://nodei.co/npm/lice.png)](https://nodei.co/npm/lice/)
 

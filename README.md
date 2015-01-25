@@ -3,6 +3,7 @@
 An open source license generator and license viewer.
 
 [![NPM](https://nodei.co/npm/lice.png)](https://nodei.co/npm/lice/)
+
 [![Build status](https://travis-ci.org/superkhau/lice.svg?branch=master)](https://travis-ci.org/superkhau/lice)
 
 ![](/data/lice.png)

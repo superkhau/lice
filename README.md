@@ -66,6 +66,17 @@ lice -g -l mit -u 'John Doe' # see above for flag definitions or run `lice -h`
 You can also provide a path to where you want the license generated via the `-p`
 option.
 
+##Contributing
+
+Please help add more licenses! Submit a PR and I will get it merged ASAP.
+
+1. Add a text file with your license content in the [licenses dir](/licenses).
+2. Edit [licenses.js](/licenses.js)
+3. Update the `Available licenses` section in [README.md](/README.md)
+4. Update the help file `Available licenses` section in [help.txt](/data/help.txt)
+
+A good place to find licenses to add is the [Open Source Initiative license page](http://opensource.org/licenses/alphabetical)
+
 ##Thanks
 
 [Open Source Initiative](http://opensource.org/) for providing the license

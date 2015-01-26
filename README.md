@@ -38,9 +38,10 @@ Options:
   -y, --year     Year placeholder [default `current year`]
 
 Available licenses:
-  afl-3.0 Academic Free License 3.0 (AFL-3.0)
-  isc     ISC License (ISC)
-  mit     The MIT License (MIT) [default]
+  afl-3.0  Academic Free License 3.0 (AFL-3.0)
+  agpl-3.0 GNU Affero General Public License 3.0 (AGPL-3.0)
+  isc      ISC License (ISC)
+  mit      The MIT License (MIT) [default]
 ```
 
 ##Example

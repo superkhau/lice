@@ -71,7 +71,7 @@ option.
 Please help add more licenses! Submit a PR and I will get it merged ASAP.
 
 1. Add a text file with your license content in the [licenses dir](/licenses).
-2. Edit [licenses.js](/licenses.js)
+2. Edit [licenses.js](/lib/licenses.js)
 3. Update the `Available licenses` section in [README.md](/README.md)
 4. Update the help file `Available licenses` section in [help.txt](/data/help.txt)
 

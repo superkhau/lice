@@ -63,3 +63,8 @@ lice -g -l mit -u 'John Doe' # see above for flag definitions or run `lice -h`
 ###Note
 You can also provide a path to where you want the license generated via the `-p`
 option.
+
+##Thanks
+
+[Open Source Initiative](http://opensource.org/) for providing the license
+content.

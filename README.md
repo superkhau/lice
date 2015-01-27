@@ -38,11 +38,12 @@ Options:
   -y, --year     Year placeholder [default `current year`]
 
 Available licenses:
-  afl-3.0  Academic Free License 3.0 (AFL-3.0)
-  agpl-3.0 GNU Affero General Public License 3.0 (AGPL-3.0)
-  gpl-3.0  GNU General Public License 3.0 (GPL-3.0)
-  isc      ISC License (ISC)
-  mit      The MIT License (MIT) [default]
+  afl-3.0      Academic Free License 3.0 (AFL-3.0)
+  agpl-3.0     GNU Affero General Public License 3.0 (AGPL-3.0)
+  bsd-3-clause BSD 3-Clause "New" or "Revised" License (BSD-3-Clause)
+  gpl-3.0      GNU General Public License 3.0 (GPL-3.0)
+  isc          ISC License (ISC)
+  mit          The MIT License (MIT) [default]
 ```
 
 ##Example

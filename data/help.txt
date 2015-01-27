@@ -15,6 +15,7 @@ Options:
 Available licenses:
   afl-3.0  Academic Free License 3.0 (AFL-3.0)
   agpl-3.0 GNU Affero General Public License 3.0 (AGPL-3.0)
+  bsd-2-clause BSD 2-Clause "Simplified" or "FreeBSD" License (BSD-2-Clause)
   bsd-3-clause BSD 3-Clause "New" or "Revised" License (BSD-3-Clause)
   gpl-3.0  GNU General Public License 3.0 (GPL-3.0)
   isc      ISC License (ISC)

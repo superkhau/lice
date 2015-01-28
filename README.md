@@ -46,7 +46,7 @@ Available licenses:
   isc           ISC License (ISC)
   mit           The MIT License (MIT) [default]
   w3c           The W3C SOFTWARE NOTICE AND LICENSE (W3C)
-  zlib/libpng   The zlib/libpng License (Zlib)
+  zlib-libpng   The zlib/libpng License (Zlib)
 ```
 
 ##Example

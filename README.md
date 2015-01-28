@@ -39,6 +39,7 @@ Options:
 
 Available licenses:
   afl-3.0       Academic Free License 3.0 (AFL-3.0)
+  apache-2.0    Apache License, Verison 2.0 (Apache-2.0)
   agpl-3.0      GNU Affero General Public License 3.0 (AGPL-3.0)
   bsd-2-clause  BSD 2-Clause "Simplified" or "FreeBSD" License (BSD-2-Clause)
   bsd-3-clause  BSD 3-Clause "New" or "Revised" License (BSD-3-Clause)
@@ -67,7 +68,7 @@ lice -g -l mit -u 'John Doe' # see above for flag definitions or run `lice -h`
 ```
 
 ###Note
-You can also provide a path to where you want the license generated via the `-p`
+You may provide a path to where you want the license generated via the `-p`
 option.
 
 ##Contributing

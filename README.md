@@ -39,9 +39,9 @@ Options:
 
 Available licenses:
   afl-3.0       Academic Free License 3.0 (AFL-3.0)
-  agpl-3.0      GNU Affero General Public License 3.0 (AGPL-3.0)
-  apache-2.0    Apache License, Verison 2.0 (Apache-2.0)
   apl-1.0       Adaptive Public License (APL-1.0)
+  agpl-3.0      Affero GNU Public License 3.0 (AGPL-3.0)
+  apache-2.0    Apache License, Verison 2.0 (Apache-2.0)
   apsl-2.0      Apple Public Source License (APSL-2.0)
   artistic-2.0  Artistic License (Artistic-2.0)
   bsd-2-clause  BSD 2-Clause "Simplified" or "FreeBSD" License (BSD-2-Clause)

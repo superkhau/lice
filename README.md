@@ -38,6 +38,7 @@ Options:
   -y, --year      Year placeholder [default `current year`]
 
 Available licenses:
+  aal           Attribution Assurance License (AAL)
   afl-3.0       Academic Free License 3.0 (AFL-3.0)
   apl-1.0       Adaptive Public License (APL-1.0)
   agpl-3.0      Affero GNU Public License 3.0 (AGPL-3.0)

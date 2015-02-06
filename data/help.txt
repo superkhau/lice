@@ -13,6 +13,7 @@ Options:
   -y, --year     Year placeholder [default `current year`]
 
 Available licenses:
+  aal           Attribution Assurance License (AAL)
   afl-3.0       Academic Free License 3.0 (AFL-3.0)
   agpl-3.0      Affero GNU Public License 3.0 (AGPL-3.0)
   apache-2.0    Apache License, Verison 2.0 (Apache-2.0)

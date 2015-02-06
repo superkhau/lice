@@ -47,6 +47,7 @@ Available licenses:
   artistic-2.0  Artistic License (Artistic-2.0)
   bsd-2-clause  BSD 2-Clause "Simplified" or "FreeBSD" License (BSD-2-Clause)
   bsd-3-clause  BSD 3-Clause "New" or "Revised" License (BSD-3-Clause)
+  bsl-1.0       Boost Software License (BSL-1.0)
   gpl-3.0       GNU General Public License 3.0 (GPL-3.0)
   isc           ISC License (ISC)
   mit           The MIT License (MIT) [default]

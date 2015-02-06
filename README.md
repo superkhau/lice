@@ -20,7 +20,7 @@ lice
 # follow the prompts
 ```
 
-##CLI mode
+##Non-interactive mode
 
 ```
 Usage:
@@ -64,7 +64,7 @@ lice
 #follow the prompts, your license will be generated in /your/project/dir
 ```
 
-Or if you prefer CLI mode:
+Or if you prefer non-interactive mode:
 
 ```
 lice -g -l mit -u 'John Doe' # see above for flag definitions or run `lice -h`

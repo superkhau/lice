@@ -26,6 +26,7 @@ Available licenses:
   catosl-1.1    Computer Associates Trusted Open Source License 1.1 (CATOSL-1.1)
   cddl-1.0      Computer Associates Trusted Open Source License 1.0 (CDDL-1.0)
   cecill-2.1    CeCILL License (CECILL-2.1)
+  cpal-1.0      Common Public Attribution License 1.0 (CPAL-1.0)
   gpl-3.0       GNU General Public License 3.0 (GPL-3.0)
   isc           ISC License (ISC)
   mit           The MIT License (MIT) [default]

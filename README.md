@@ -53,6 +53,7 @@ Available licenses:
   cecill-2.1    CeCILL License (CECILL-2.1)
   cpal-1.0      Common Public Attribution License 1.0 (CPAL-1.0)
   cua-opl-1.0   CUA Office Public License Version 1.0 (CUA-OPL-1.0)
+  eudatagrid    EU Datagrid Software License (EUDatagrid)
   gpl-3.0       GNU General Public License 3.0 (GPL-3.0)
   isc           ISC License (ISC)
   mit           The MIT License (MIT) [default]

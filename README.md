@@ -54,7 +54,7 @@ Available licenses:
   cpal-1.0      Common Public Attribution License 1.0 (CPAL-1.0)
   cua-opl-1.0   CUA Office Public License Version 1.0 (CUA-OPL-1.0)
   ecl-2.0       Educational Community License, Version 2.0 (ECL-2.0)
-  epl-1.0       Eclipse Public License 1.0 (EPL-1.0)
+  efl-2.0       Eiffel Forum License V2.0 (EFL-2.0)
   eudatagrid    EU Datagrid Software License (EUDatagrid)
   gpl-3.0       GNU General Public License 3.0 (GPL-3.0)
   isc           ISC License (ISC)

@@ -8,7 +8,7 @@ Options:
   -n, --name     The name of the generated license, [default `LICENSE`]
   -p, --path     License generation file path, [default `current working dir`]
   -s, --show     Show the contents of a license
-  -u, --user     The name to use in the generated license
+  -u, --user     The name to use in the generated license [default `$LICE_USER`]
   -v, --version  Display the version
   -y, --year     Year placeholder [default `current year`]
 

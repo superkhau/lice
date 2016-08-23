@@ -22,6 +22,7 @@ var args = require('minimist')(process.argv.slice(2), {
     filename: 'LICENSE',
     noprompt: true,
     path: process.cwd(),
+    user: process.env.LICE_USER,
     year: new Date().getFullYear()
   },
   boolean: [

@@ -1,4 +1,4 @@
-#lice
+# lice
 
 An open source license generator and license viewer.
 
@@ -6,21 +6,23 @@ An open source license generator and license viewer.
 
 [![Build status](https://travis-ci.org/superkhau/lice.svg?branch=master)](https://travis-ci.org/superkhau/lice)
 
-![](/data/lice.png)
+![lice logo](/data/lice.png)
 
-##Installation
+## Installation
+You probably want to install this globally, so you can easily add `LICENSE`
+files to all your open source projects.
+
 ```
 npm install -g lice
 ```
 
-##Usage
-
+## Usage
 ```
 lice
 # follow the prompts
 ```
 
-##Non-interactive mode
+## Non-interactive mode
 
 ```
 Usage:
@@ -65,8 +67,7 @@ Available licenses:
   zlib-libpng   The zlib/libpng License (Zlib)
 ```
 
-##Example
-
+## Example
 Let's say you want an MIT license for your project. Switch to the directory
 where you want the license generated, run `lice` and follow the prompts:
 
@@ -82,12 +83,11 @@ Or if you prefer non-interactive mode:
 lice -g -l mit -u 'John Doe' # see above for flag definitions or run `lice -h`
 ```
 
-###Note
+### Note
 You may provide a path to where you want the license generated via the `-p`
 option.
 
-##Contributing
-
+## Contributing
 Please help add more licenses! Submit a PR and I will get it merged ASAP.
 
 1. Add a text file with your license content in the [licenses dir](/licenses).
@@ -95,9 +95,9 @@ Please help add more licenses! Submit a PR and I will get it merged ASAP.
 3. Update the `Available licenses` section in [README.md](/README.md)
 4. Update the help file `Available licenses` section in [help.txt](/data/help.txt)
 
-A good place to find licenses to add is the [Open Source Initiative license page](http://opensource.org/licenses/alphabetical)
+A good place to find licenses to add is the
+[Open Source Initiative license page](http://opensource.org/licenses/alphabetical)
 
-##Thanks
-
+## Thanks
 [Open Source Initiative](http://opensource.org/) for providing the license
 content.

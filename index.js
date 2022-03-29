@@ -37,6 +37,9 @@ var args = require('minimist')(process.argv.slice(2), {
   ]
 });
 
+if (args.license)
+  args.license = args.license.toLowerCase();
+
 if (args.help)
   return actions.help();
 

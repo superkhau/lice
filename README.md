@@ -99,6 +99,11 @@ Please help add more licenses! Submit a PR and I will get it merged ASAP.
 A good place to find licenses to add is the
 [Open Source Initiative license page](http://opensource.org/licenses/alphabetical)
 
+## Contributors
+<a align="center" href="https://github.com/superkhau/lice/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=superkhau/lice" />
+</a>
+
 ## Thanks
 [Open Source Initiative](http://opensource.org/) for providing the license
 content.

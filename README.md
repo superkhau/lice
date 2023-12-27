@@ -102,3 +102,4 @@ A good place to find licenses to add is the
 ## Thanks, related projects
 - [Open Source Initiative](http://opensource.org/) for providing the license content.
 - [ClaudiuCeia/licensor-cli](https://github.com/ClaudiuCeia/licensor-cli): 📜 Easily choose an Open Source license for your awesome project
+- [onur/cargo-license](https://github.com/onur/cargo-license): Cargo subcommand to see license of dependencies

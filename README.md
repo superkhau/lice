@@ -63,7 +63,8 @@ Available licenses:
   mit             The MIT License (MIT) [default]
   mpl-2.0         Mozilla Public License Version 2.0 (MPL-2.0)
   ms-pl           Microsoft Public License (MS-PL)
-  transcopyright  transcopyright
+  transcopyright  Transcopyright License (Transcopyright)
+  copyright       Copyright license (Copyright)
   w3c             The W3C SOFTWARE NOTICE AND LICENSE (W3C)
   zlib-libpng     The zlib/libpng License (Zlib)
 ```

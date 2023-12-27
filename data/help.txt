@@ -27,6 +27,7 @@ Available licenses:
   cddl-1.0       Computer Associates Trusted Open Source License 1.0 (CDDL-1.0)
   cecill-2.1     CeCILL License (CECILL-2.1)
   cpal-1.0       Common Public Attribution License 1.0 (CPAL-1.0)
+  copyright      Copyright License (copyright)
   cua-opl-1.0    CUA Office Public License Version 1.0 (CUA-OPL-1.0)
   ecl-2.0        Educational Community License, Version 2.0 (ECL-2.0)
   epl-1.0        Eclipse Public License 1.0 (EPL-1.0)
@@ -37,6 +38,6 @@ Available licenses:
   mit            The MIT License (MIT) [default]
   mpl-2.0        Mozilla Public License Version 2.0 (MPL-2.0)
   ms-pl          Microsoft Public License (MS-PL)
-  transcopyright transcopyright License (transcopyright)
+  transcopyright Transcopyright License (transcopyright)
   w3c            The W3C SOFTWARE NOTICE AND LICENSE
   zlib-libpng    The zlib/libpng License (Zlib)

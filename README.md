@@ -99,6 +99,7 @@ Please help add more licenses! Submit a PR and I will get it merged ASAP.
 A good place to find licenses to add is the
 [Open Source Initiative license page](http://opensource.org/licenses/alphabetical)
 
-## Thanks
-[Open Source Initiative](http://opensource.org/) for providing the license
-content.
+## Thanks, related projects
+- [Open Source Initiative](http://opensource.org/) for providing the license content.
+- [ClaudiuCeia/licensor-cli](https://github.com/ClaudiuCeia/licensor-cli): 📜 Easily choose an Open Source license for your awesome project
+- [onur/cargo-license](https://github.com/onur/cargo-license): Cargo subcommand to see license of dependencies

@@ -101,6 +101,12 @@ A good place to find licenses to add is the
 [Open Source Initiative license page](http://opensource.org/licenses/alphabetical)
 
 ## Thanks, related projects
+- [Audreyfeldroy/Choosea License](https://github.com/audreyfeldroy/choosealicense): Choose a License is a Cookiecutter plugin for selecting an open-source license.
+- [Bisaloo/Licenses_Talk](https://github.com/Bisaloo/licenses_talk): How to choose a license for an academic project?
+- [Composer/Spdx Licenses](https://github.com/composer/spdx-licenses): Tools for working with the SPDX license list and validating licenses.
+- [ClaudiuCeia/Licensor Cli](https://github.com/ClaudiuCeia/licensor-cli): 📜 Easily choose an Open Source license for your awesome project
+- [Daald/Dpkg Licenses](https://github.com/daald/dpkg-licenses): A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu)
+- [Nevir/Readable-Licenses](https://github.com/nevir/readable-licenses): Make your open source license text more pleasant to read.
+- [Onur/Cargo License](https://github.com/onur/cargo-license): Cargo subcommand to see license of dependencies
 - [Open Source Initiative](http://opensource.org/) for providing the license content.
-- [ClaudiuCeia/licensor-cli](https://github.com/ClaudiuCeia/licensor-cli): 📜 Easily choose an Open Source license for your awesome project
-- [onur/cargo-license](https://github.com/onur/cargo-license): Cargo subcommand to see license of dependencies
+- [Ufal/Public License Selector](https://github.com/ufal/public-license-selector): Tool that will help you select the right open license for your data or software

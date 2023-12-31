@@ -58,6 +58,7 @@ Available licenses:
   ecl-2.0         Educational Community License, Version 2.0 (ECL-2.0)
   entessa         Entessa Public License Version 1.0 (Entessa)
   eudatagrid      EU Datagrid Software License (EUDatagrid)
+  eupl            European Union Public License v. 1.2
   gpl-3.0         GNU General Public License 3.0 (GPL-3.0)
   isc             ISC License (ISC)
   mit             The MIT License (MIT) [default]
@@ -101,7 +102,7 @@ A good place to find licenses to add is the
 [Open Source Initiative license page](http://opensource.org/licenses/alphabetical)
 
 ## Thanks, related projects
-- [Audreyfeldroy/Choosea License](https://github.com/audreyfeldroy/choosealicense): Choose a License is a Cookiecutter plugin for selecting an open-source license.
+- [AudreyFeldroy/Choosea License](https://github.com/audreyfeldroy/choosealicense): Choose a License is a Cookiecutter plugin for selecting an open-source license.
 - [Bisaloo/Licenses_Talk](https://github.com/Bisaloo/licenses_talk): How to choose a license for an academic project?
 - [Composer/Spdx Licenses](https://github.com/composer/spdx-licenses): Tools for working with the SPDX license list and validating licenses.
 - [ClaudiuCeia/Licensor Cli](https://github.com/ClaudiuCeia/licensor-cli): 📜 Easily choose an Open Source license for your awesome project

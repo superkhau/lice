@@ -33,6 +33,7 @@ Available licenses:
   epl-1.0        Eclipse Public License 1.0 (EPL-1.0)
   entessa        Entessa Public License Version 1.0 (Entessa)
   eudatagrid     EU Datagrid Software License (EUDatagrid)
+  eupl           European Union Public License v. 1.2
   gpl-3.0        GNU General Public License 3.0 (GPL-3.0)
   isc            ISC License (ISC)
   mit            The MIT License (MIT) [default]

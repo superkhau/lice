@@ -36,6 +36,7 @@ Available licenses:
   eupl           European Union Public License v. 1.2
   gpl-3.0        GNU General Public License 3.0 (GPL-3.0)
   isc            ISC License (ISC)
+  tosdr_facebook Terms of Service Didn"t Read Facebook License (tosdr_facebook)
   mit            The MIT License (MIT) [default]
   mpl-2.0        Mozilla Public License Version 2.0 (MPL-2.0)
   ms-pl          Microsoft Public License (MS-PL)

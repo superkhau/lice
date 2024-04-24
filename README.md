@@ -65,6 +65,7 @@ Available licenses:
   mpl-2.0         Mozilla Public License Version 2.0 (MPL-2.0)
   ms-pl           Microsoft Public License (MS-PL)
   onur_dev        onur_dev license (onur_dev license)
+  tosdr_facebook  Terms of Service Didn"t Read Facebook License (tosdr_facebook)
   transcopyright  Transcopyright License (Transcopyright)
   copyright       Copyright license (Copyright)
   w3c             The W3C SOFTWARE NOTICE AND LICENSE (W3C)

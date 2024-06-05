@@ -1,0 +1,5 @@
+Facebook stores your data whether you have an account or not. 
+Your identity is used in ads that are shown to other users 
+The service can read your private messages 
+This service can view your browser history 
+Deleted content is not really deleted 

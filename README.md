@@ -59,6 +59,7 @@ Available licenses:
   entessa          Entessa Public License Version 1.0 (Entessa)
   eudatagrid       EU Datagrid Software License (EUDatagrid)
   eupl             European Union Public License v. 1.2
+  facebook.tos.txt Terms of Service Didn"t Read Facebook License (tosdr_facebook)
   gpl-3.0          GNU General Public License 3.0 (GPL-3.0)
   isc              ISC License (ISC)
   mit              The MIT License (MIT) [default]
@@ -66,7 +67,6 @@ Available licenses:
   ms-pl            Microsoft Public License (MS-PL)
   onur_dev         onur_dev license (onur_dev license)
   transcopyright   Transcopyright License (Transcopyright)
-  facebook.tos.txt Terms of Service Didn"t Read Facebook License (tosdr_facebook)
   copyright        Copyright license (Copyright)
   w3c              The W3C SOFTWARE NOTICE AND LICENSE (W3C)
   zlib-libpng      The zlib/libpng License (Zlib)
